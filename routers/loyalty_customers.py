@@ -1,6 +1,4 @@
 from typing import Optional
-from urllib.request import Request
-
 from fastapi import APIRouter
 
 from services.loyalty_service import LoyaltyService
