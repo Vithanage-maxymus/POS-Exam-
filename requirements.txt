@@ -1,0 +1,13 @@
+python-dotenv
+requests
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-openai
+langchain-ollama
+langchain-community
+langchain-google-genai
+langchain-tavily
+ddgs
+tzdata
